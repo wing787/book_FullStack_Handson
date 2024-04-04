@@ -1,2 +1,3 @@
 *.zip
 /writing-full-stack-web-development/
+.DS_Store
